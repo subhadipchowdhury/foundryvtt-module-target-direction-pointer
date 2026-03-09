@@ -5,7 +5,9 @@ A [Foundry VTT](https://foundryvtt.com/) module that draws directional arrows on
 ![Foundry VTT v13](https://img.shields.io/badge/Foundry-v13-green)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue)
 
-> **Note:** This module was almost entirely written by [Claude](https://claude.ai) (Anthropic). I came up with the idea and guided the design decisions; Claude wrote the code, settings, and documentation.
+> **Note:** Module contains no AI-generated art or game content. I came up with the idea and guided the design decisions; [Claude](https://claude.ai) (Anthropic) assisted with the code, settings, and documentation.
+
+![Target Direction Pointer preview](assets/preview.gif)
 
 ## Features
 
