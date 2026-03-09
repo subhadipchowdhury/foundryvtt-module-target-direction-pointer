@@ -80,7 +80,7 @@ function registerKeybinding() {
   game.keybindings.register(MODULE_ID, 'toggle', {
     name: 'TDP.keybinding.toggle.name',
     hint: 'TDP.keybinding.toggle.hint',
-    editable: [{ key: 'KeyT', modifiers: ['Shift'] }],
+    editable: [],
     onDown: () => { toggle(); return true; },
     precedence: CONST.KEYBINDING_PRECEDENCE.NORMAL,
   });
