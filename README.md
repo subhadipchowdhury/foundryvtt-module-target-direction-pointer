@@ -7,7 +7,7 @@ A [Foundry VTT](https://foundryvtt.com/) module that draws directional arrows on
 
 > **Note:** Module contains no AI-generated art or game content. I came up with the idea and guided the design decisions; [Claude](https://claude.ai) (Anthropic) assisted with the code, settings, and documentation.
 
-![Target Direction Pointer](assets/ally-source-hostile-target.png)
+![Target Direction Pointer](assets/ally-source.png)
 
 ## Features
 
@@ -26,10 +26,6 @@ A [Foundry VTT](https://foundryvtt.com/) module that draws directional arrows on
 ![Hostile token targeting](assets/hostile-source.png)
 
 *Hostile token targeting friendly and hostile tokens. Red toward friendlies, yellow toward the other hostile.*
-
-![Friendly targeting friendly](assets/ally-source-ally-target.png)
-
-*Friendly token targeting other friendly tokens. Arrows are teal.*
 
 ![GM show-all mode](assets/gm-mode.png)
 
