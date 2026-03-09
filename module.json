@@ -22,9 +22,9 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "https://github.com/subhadipchowdhury/foundryvtt-module-target-direction-pointer",
-  "manifest": "https://github.com/subhadipchowdhury/foundryvtt-module-target-direction-pointer/releases/latest/download/module.json",
-  "download": "https://github.com/subhadipchowdhury/foundryvtt-module-target-direction-pointer/releases/latest/download/module.zip",
+  "url": "https://github.com/miniaturepancake/foundryvtt-module-target-direction-pointer",
+  "manifest": "https://github.com/miniaturepancake/foundryvtt-module-target-direction-pointer/releases/latest/download/module.json",
+  "download": "https://github.com/miniaturepancake/foundryvtt-module-target-direction-pointer/releases/latest/download/module.zip",
   "license": "LICENSE",
   "readme": "README.md"
 }
