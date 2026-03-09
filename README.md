@@ -7,7 +7,7 @@ A [Foundry VTT](https://foundryvtt.com/) module that draws directional arrows on
 
 > **Note:** Module contains no AI-generated art or game content. I came up with the idea and guided the design decisions; [Claude](https://claude.ai) (Anthropic) assisted with the code, settings, and documentation.
 
-![Target Direction Pointer preview](assets/preview.gif)
+![Target Direction Pointer](assets/ally-source-hostile-target.png)
 
 ## Features
 
@@ -21,6 +21,19 @@ A [Foundry VTT](https://foundryvtt.com/) module that draws directional arrows on
 - **Subtle breathing animation** — gentle pulse (configurable or disable)
 - **Keyboard toggle** — no default binding; assignable in Configure Controls
 - **Fully configurable** — every parameter adjustable in Module Settings
+
+
+![Hostile token targeting](assets/hostile-source.png)
+
+*Hostile token targeting friendly and hostile tokens. Red toward friendlies, yellow toward the other hostile.*
+
+![Friendly targeting friendly](assets/ally-source-ally-target.png)
+
+*Friendly token targeting other friendly tokens. Arrows are teal.*
+
+![GM show-all mode](assets/gm-mode.png)
+
+*GM view with "Show All" enabled. Arrows visible on multiple tokens at once.*
 
 ## Installation
 
@@ -42,6 +55,8 @@ A [Foundry VTT](https://foundryvtt.com/) module that draws directional arrows on
 ## Settings
 
 All settings are per-client.
+
+![Module settings](assets/settings.png)
 
 | Setting | Default | Description |
 |---|---|---|
