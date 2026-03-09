@@ -74,6 +74,10 @@ All settings are per-client.
 - **Systems**: System-agnostic
 - **Conflicts**: None known
 
+## Acknowledgments
+
+This module was developed with the assistance of [Claude](https://claude.ai) (Anthropic).
+
 ## License
 
 [MIT](LICENSE)

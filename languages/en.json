@@ -25,6 +25,14 @@
         "name": "Distance Scale Factor",
         "hint": "How much arrow length grows per grid-unit of distance. Default: 1.5"
       },
+      "offset": {
+        "name": "Border Offset",
+        "hint": "Gap in pixels between the token edge and the arrow base. Default: 2"
+      },
+      "outlineWidth": {
+        "name": "Outline Width",
+        "hint": "Width of the dark outline around arrows in pixels. Default: 1.5"
+      },
       "alphaClose": {
         "name": "Near Opacity",
         "hint": "Arrow opacity for the nearest targets (0-1). Default: 0.90"
@@ -36,6 +44,10 @@
       "alphaFalloff": {
         "name": "Opacity Falloff Distance",
         "hint": "Grid-units over which opacity decays from near to far. Default: 20"
+      },
+      "breathSpeed": {
+        "name": "Breathing Speed",
+        "hint": "Speed of the breathing animation oscillation. Set to 0 to disable. Default: 0.0015"
       },
       "breathDepth": {
         "name": "Breathing Intensity",
