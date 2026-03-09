@@ -15,7 +15,7 @@ A [Foundry VTT](https://foundryvtt.com/) module that draws directional arrows on
 - **Self-target indicator** — a centered ring when targeting your own token
 - **GM "show all" mode** — see targeting arrows on every player's character token
 - **Subtle breathing animation** — gentle pulse (configurable or disable)
-- **Keyboard toggle** — Shift+T by default (rebindable)
+- **Keyboard toggle** — no default binding; assignable in Configure Controls
 - **Fully configurable** — every parameter adjustable in Module Settings
 
 ## Installation
