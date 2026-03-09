@@ -29,7 +29,7 @@ A [Foundry VTT](https://foundryvtt.com/) module that draws directional arrows on
 1. In Foundry VTT, go to **Add-on Modules** → **Install Module**
 2. Paste this URL into the **Manifest URL** field:
    ```
-   https://github.com/subhadip-chowdhury/target-direction-pointer/releases/latest/download/module.json
+   https://github.com/subhadipchowdhury/foundryvtt-module-target-direction-pointer/releases/latest/download/module.json
    ```
 3. Click **Install**
 
