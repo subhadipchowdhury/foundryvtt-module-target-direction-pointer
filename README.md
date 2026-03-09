@@ -5,6 +5,8 @@ A [Foundry VTT](https://foundryvtt.com/) module that draws directional arrows on
 ![Foundry VTT v13](https://img.shields.io/badge/Foundry-v13-green)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue)
 
+> **Note:** This module was almost entirely written by [Claude](https://claude.ai) (Anthropic). I came up with the idea and guided the design decisions; Claude wrote the code, settings, and documentation.
+
 ## Features
 
 - **Directional arrows** on your token's border, one per target
@@ -73,10 +75,6 @@ All settings are per-client.
 - **Foundry VTT**: v13
 - **Systems**: System-agnostic
 - **Conflicts**: None known
-
-## Acknowledgments
-
-This module was developed with the assistance of [Claude](https://claude.ai) (Anthropic).
 
 ## License
 
