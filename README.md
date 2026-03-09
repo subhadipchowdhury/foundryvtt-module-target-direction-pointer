@@ -35,7 +35,7 @@ A [Foundry VTT](https://foundryvtt.com/) module that draws directional arrows on
 
 ### Manual
 
-1. Download `module.zip` from [Releases](https://github.com/subhadip-chowdhury/target-direction-pointer/releases)
+1. Download `module.zip` from [Releases](https://github.com/subhadipchowdhury/foundryvtt-module-target-direction-pointer/releases)
 2. Extract to `<FoundryData>/Data/modules/target-direction-pointer/`
 3. Restart Foundry and enable the module in your world
 
